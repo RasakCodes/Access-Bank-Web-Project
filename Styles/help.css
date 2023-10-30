@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#support {
+background-image: url(https://theaccessservicehub.accessbankplc.com/assets/images/customersupportIMG.png);
+height: 100vh;
+}
+
+.pic {
+    padding: 40px 0 0 100px;
+    font-size: 20px;
+}
+.pics{
+    padding: 10px 0 0 100px;
+}
+.picss{
+    padding: 40px 0 0 100px;
+    font-size: 20px;
+    filter: blur(1.5px)
+}
+.tran {
+    border: 10px thick solid green;
+    background-color: #014086;
+    width: 450px;
+    height: 30vh;
+    color: white;
+    margin: -150px 0 0 150px;
+    font-size: 20px;
+}
+.failed {
+    padding: 30px 0px 0px 80px;
+}
+
+.here {
+    padding: 0px 0px 0px 80px;
+}
+.firstsec{
+    display: flex;
+    justify-self: center;
+    /* justify-content: space-between; */
+    justify-content: space-around;
+    position: relative;   
+
+}
+.com{
+    border: 5px thick solid black;
+    background-color: white;
+    width: 30%;
+    margin-top: 40px;
+    padding-left: 30px;
+    
+}
+.cover{
+    background-color: #99999922;
+    height: 100vh;
+}
+
+button{
+    margin: 30px 0 30px 600px;
+    height: 7vh;
+    background-color: #f98537;
+    width: 70px;
+    border: none;
+    color: white;
+
+}
+button a{
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+}
+
+.com:hover{
+    background-color: #f98537;
+}
+
