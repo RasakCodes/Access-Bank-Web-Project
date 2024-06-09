@@ -7,7 +7,7 @@
 #topnav{
   display: flex;
   justify-content: space-between;
-  padding: 12px;
+  padding: 11px;
   background-color: #f1f1f1;   
 }
 .icon{
@@ -18,7 +18,7 @@
 }
 
 .firstnav a{
-  padding: 10px;
+  padding: 12px;
   text-decoration: none;
   font-size: 13px;
   color: black;
@@ -32,7 +32,7 @@
   content: "";
   background-color: #f98537;
   position: absolute;
-  height: 4px;
+  height: 5px;
   width: 0;
   top: 0%;
   left: 0%;
@@ -51,10 +51,10 @@
 }
 
 .secondnav{
-  padding: 0 55px 0 0;
+  padding: 0 54px 0 0;
 }
 .secondnav a{
-  font-size: 13px;
+  font-size: 12px;
   text-decoration: none;  
 }
 .countrydropdown{
@@ -69,17 +69,17 @@
 }
 .countrydropdown li{
   position: relative;
-  padding: 0 12px 12px;
+  padding: 0 13px 13px;
 }
 .countrydropdown a{
-  font-size: 13px;
+  font-size: 14px;
   color: black;
   width: 0;  
 }
-
 .flag{
   margin-right: 5px;
 }
+
 .secondnav:hover .countrydropdown{
   visibility: visible;
 }
@@ -87,7 +87,7 @@
   content: "";
   background-color: #f98537;
   position: absolute;
-  height: 4px;
+  height: 5px;
   width: 0;
   top: 0%;
   left: 0%;
@@ -111,13 +111,13 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: -10px;
+  margin-top: -11px;
   background-color: #ffffff;
 }
 #header2 .nav2 .parent {
   display: flex;
   align-items: center;
-  padding-left: 16px;
+  padding-left: 17px;
 }
 
 #header2 .nav2 .parent .father {

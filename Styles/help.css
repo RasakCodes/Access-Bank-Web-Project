@@ -14,15 +14,15 @@ height: 100vh;
     font-size: 20px;
 }
 .pics{
-    padding: 10px 0 0 100px;
+    padding: 11px 0 0 100px;
 }
 .picss{
     padding: 40px 0 0 100px;
-    font-size: 20px;
+    font-size: 21px;
     filter: blur(1.5px)
 }
 .tran {
-    border: 10px thick solid green;
+    border: 11px thick solid green;
     background-color: #014086;
     width: 450px;
     height: 30vh;
